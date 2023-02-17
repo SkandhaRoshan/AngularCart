@@ -15,4 +15,3 @@
     * locate the folder on your computer, <br/>
       cd projectname
     * npm start.
-# AngularCart
